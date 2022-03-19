@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  height: 150px;
+  width: 100%;
+  background-color: darkslategray;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  
+}
+.link{
+  padding: 15px;
+  text-decoration: none;
+  color: white;
+
+}
+
+.name{
+  max-width: 200px;
+  min-width: 100px;
+  height: 80px;
+  text-align: center;
+}
